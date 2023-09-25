@@ -1,0 +1,5 @@
+/* Asmin Pothula 1001904488 */
+char *PhraseBank[] = {"I am Inevitable.","Avengers, assemble!", "You will never be a God.",
+                 "That’s my secret, Captain I’m always angry.", "She's not alone.", "Wakanda Forever!",
+				 "Mr. Stark, I Don’t Feel So Good.", "We’re in the endgame now.",
+				 "I'm Iron Man.", "I’m Mary Poppins y’all!", ""};
